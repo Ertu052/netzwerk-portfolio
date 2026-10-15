@@ -6,7 +6,7 @@ Hier dokumentiere ich meine eigenen Projekte im Bereich Netzwerktechnik.
 
 Mein erstes Netzwerkprojekt habe ich mit Cisco Packet Tracer erstellt.
 
-Für meine nächsten Projekte möchte ich GNS3, Wireshark, MikroTik RouterOS und Linux / Ubuntu Server verwenden.
+Für meine nächsten Projekte möchte ich GNS3, Wireshark und MikroTik RouterOS verwenden.
 
 ## Meine Arbeitsweise
 

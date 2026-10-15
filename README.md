@@ -13,7 +13,6 @@ In diesem Portfolio dokumentiere ich meine eigenen Netzwerkprojekte und meinen L
 - Switching und Routing
 - DHCP, DNS und Netzwerkdienste
 - Netzwerkanalyse und Fehlerbehebung
-- Linux und Netzwerkadministration
 
 ## Meine Technologien
 
@@ -25,7 +24,6 @@ In diesem Portfolio dokumentiere ich meine eigenen Netzwerkprojekte und meinen L
 ### Geplante nächste Schritte
 
 - **MikroTik RouterOS** – Routing, DHCP, NAT und Firewall
-- **Linux / Ubuntu Server** – Serververwaltung und Netzwerkdienste
 
 ## Meine Projekte
 
@@ -37,7 +35,7 @@ Mein erstes dokumentiertes LAN-Projekt mit Cisco Packet Tracer.
 
 [Projekt 01 auf GitHub ansehen](projekte/Projekt-01-Kleines-Bueronetzwerk)
 
-Weitere Projekte mit GNS3, MikroTik RouterOS, Wireshark und Linux sind geplant.
+Weitere Projekte mit GNS3, MikroTik RouterOS und Wireshark sind geplant.
 
 ## Meine Arbeitsweise
 
